@@ -1,0 +1,2 @@
+# doit_django_result
+doit_django_result
